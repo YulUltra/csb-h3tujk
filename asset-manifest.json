@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yulultra.github.io/csb-h3tujk/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://yulultra.github.io/csb-h3tujk/static/js/main.0e695fb9.chunk.js",
+    "main.js.map": "https://yulultra.github.io/csb-h3tujk/static/js/main.0e695fb9.chunk.js.map",
+    "runtime-main.js": "https://yulultra.github.io/csb-h3tujk/static/js/runtime-main.82457447.js",
+    "runtime-main.js.map": "https://yulultra.github.io/csb-h3tujk/static/js/runtime-main.82457447.js.map",
+    "static/js/2.5d792a43.chunk.js": "https://yulultra.github.io/csb-h3tujk/static/js/2.5d792a43.chunk.js",
+    "static/js/2.5d792a43.chunk.js.map": "https://yulultra.github.io/csb-h3tujk/static/js/2.5d792a43.chunk.js.map",
+    "index.html": "https://yulultra.github.io/csb-h3tujk/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://yulultra.github.io/csb-h3tujk/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.5d792a43.chunk.js.LICENSE.txt": "https://yulultra.github.io/csb-h3tujk/static/js/2.5d792a43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82457447.js",
+    "static/js/2.5d792a43.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0e695fb9.chunk.js"
+  ]
+}
